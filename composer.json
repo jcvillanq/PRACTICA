@@ -1,0 +1,26 @@
+{
+    "name": "proyecto/php-mvc",
+    "description": "PLANTILLA MVC PHP EDUCACIONAL PROYECTO FINAL IFCD0210",
+    "license": "public",
+    "authors": [
+        {
+            "name": "Curso IFCD0210 Netmind 2021"
+        }   
+    ],
+    "support": {
+        "issues": "https://github.com/armandolap/IFCD0210-21-Netmind/tree/backend-template"
+    },
+    "require": {
+        "php": ">=7.0",
+        "twig/twig": ">=2.0",
+        "phpmailer/phpmailer": ">=6.1",
+        "verot/class.upload.php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/core/",
+            "App\\": "src/app/"
+        }
+    }
+
+}

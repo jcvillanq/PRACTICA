@@ -1,0 +1,8 @@
+# dependencies
+/vendor
+
+#folders
+src/uploads
+
+# misc
+.DS_Store

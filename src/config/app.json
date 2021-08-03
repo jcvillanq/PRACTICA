@@ -1,0 +1,17 @@
+{
+    "front": {
+        "namespace": "Core\\",
+        "class": "FrontController"
+    },
+    "checkSession_redirect" : {
+        "route": ""
+    },
+    "db": {
+        "host": "localhost",
+        "dbname": "",
+        "user": "root",
+        "pass": "",
+        "port": "3306"
+    }
+}
+
